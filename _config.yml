@@ -6,7 +6,7 @@ url: http://stbam.us
 title: St. Bam Choir 
 subtitle: A Choir for a New Tomorrow 
 author: Maia McCormick
-simple_search: https://www.google.com/search
+# simple_search: https://www.google.com/search
 description: a tight-knit chamber choir based in NYC performing largely Renaissance music, but really, a little bit of everything.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

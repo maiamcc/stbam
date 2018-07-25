@@ -41,7 +41,7 @@ div.social-nav {
 
 /* Separator after each post */
 article {
-	border-bottom: 1px solid #bbb;
+	border-bottom: none;
 }
 
 /* Footer in sidebar */
@@ -96,7 +96,7 @@ hgroup {
 /* hero styles */
 
 .hero {
-	background-color : $theme-color;
+	background-color : $header-bg;
 }
 
 .wrap {
@@ -138,10 +138,10 @@ body>header h2 {
 /* Nav Bar +  Search form */
 body>nav form .search {
 	line-height: 1em;
-	color: #aaa;
+	color: $nav-color;
 }
 body>nav a {
-	color: #aaa;
+	color: $nav-color;
 }
 
 /* Set footer max width */

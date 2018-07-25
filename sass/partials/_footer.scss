@@ -2,14 +2,14 @@
   @extend .sans;
   font-size: .8em;
   color: $footer-color;
-  text-shadow: lighten($footer-bg, 5) 0 1px;
-  background-color: lighten($sidebar-bg, 2);
+  background-color: lighten($footer-bg, 2);
   position: relative;
   padding-top: 1em;
   padding-bottom: 1em;
+  border-top: 1px solid $footer-color;
   z-index: 1;
   a {
-    @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
+    @include link-colors($footer-link-color, $footer-link-color-hover, $footer-link-color-active, $footer-link-color-visited);
   }
   p:last-child { margin-bottom: 0; }
 }

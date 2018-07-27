@@ -43,7 +43,7 @@ $header-padding-bottom: 2.5em !default;
   }
 }
 
-body > nav {
+nav.toplvl {
   max-width: 100%;
 }
 
@@ -126,7 +126,7 @@ body.sidebar-footer {
 }
 
 @media only screen and (min-width: 550px) {
-  body > header { font-size: $header-font-size; }
+  header.toplvl { font-size: $header-font-size; }
 }
 @media only screen and (min-width: 750px) {
   aside.sidebar { @include collapse-sidebar; }
@@ -136,7 +136,7 @@ body.sidebar-footer {
 }
 @media only screen and (min-width: 768px) {
   body { -webkit-text-size-adjust: auto; }
-  body > header { font-size: $header-font-size * 1.2; }
+  header.toplvl { font-size: $header-font-size * 1.2; }
   #main {
     padding: 0;
     margin: 0 auto;
@@ -170,7 +170,7 @@ body.sidebar-footer {
 }
 
 @media only screen and (min-width: 992px) {
-  body > header { font-size: $header-font-size * 1.3; }
+  header.toplvl { font-size: $header-font-size * 1.3; }
   #content { margin-right: $sidebar-width-wide; }
   #content {
     > div, > article {

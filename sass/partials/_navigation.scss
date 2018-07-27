@@ -1,7 +1,7 @@
-body > nav {
+nav.toplvl {
   position: relative;
   background-color: $nav-bg;
-  
+
   padding-top: .35em;
   padding-bottom: .35em;
   form {
@@ -24,7 +24,7 @@ body > nav {
   }
   fieldset[role=search]{ float: right; width: 48%; }
   fieldset.mobile-nav{ float: left; width: 48%;
-    select{ width: 100%; 
+    select{ width: 100%;
             font-size: .8em;
             font-weight: 900;
            }
@@ -90,7 +90,7 @@ body > nav {
   }
 }
 .no-placeholder {
-  body > nav .search {
+  nav.toplvl .search {
     background: lighten($nav-bg, 15) image-url('search.png') .3em .25em no-repeat;
     text-indent: 1.3em;
   }
@@ -110,7 +110,7 @@ body > nav {
   &:hover:after { background-color: lighten($nav-color, 20); }
 }
 .maskImage {
-  body > nav {
+  nav.toplvl {
     @media only screen and (min-width: 550px) {
       ul[data-subscription$=email] + form {
         width: $sidebar-width-medium - $pad-medium*2 - $sidebar-pad-medium - 32px;

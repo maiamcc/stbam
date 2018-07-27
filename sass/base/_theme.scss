@@ -1,7 +1,7 @@
 $noise-bg: image-url('noise.png') top left !default;
 $img-border: inline-image('dotted-border.png') !default;
 
-// 
+//
 $theme-color: #C63D0F ;
 $secondary-theme-color : #3B3738;
 $main-title-color: $theme-color;
@@ -68,9 +68,9 @@ $page-border-bottom: darken($footer-bg, 5) !default;
 aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
   text-decoration: none;
-} 
+}
 
-body > nav a {
+nav.toplvl a {
   color: $nav-color;
 }
 

@@ -105,7 +105,7 @@ hgroup {
 	color: #fff;
 }
 
-body>header h2 {
+header.toplvl h2 {
 	font-size: 16px;
 	letter-spacing: -0.5px;
 }
@@ -136,11 +136,11 @@ body>header h2 {
 }
 
 /* Nav Bar +  Search form */
-body>nav form .search {
+nav.toplvl form .search {
 	line-height: 1em;
 	color: $nav-color;
 }
-body>nav a {
+nav.toplvl a {
 	color: $nav-color;
 }
 

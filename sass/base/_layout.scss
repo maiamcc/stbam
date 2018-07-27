@@ -52,7 +52,7 @@ body {
   max-width: 100%;
   position: relative;
   margin: 0 auto;
-  > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
+  header.toplvl, nav.toplvl, footer.toplvl, #content > article, #content > div > article, #content > div > section {
     @extend .group;
     padding-left: $pad-min;
     padding-right: $pad-min;
@@ -86,7 +86,7 @@ body {
       margin-right: $pad-wide;
     }
   }
-  > header {
+  header.toplvl {
     font-size: $header-font-size;
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;

@@ -19,3 +19,17 @@ $pad-wide: 105px;
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+// Flex layout for sticky footer
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}

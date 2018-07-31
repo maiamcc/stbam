@@ -39,6 +39,16 @@ div.social-nav {
 	padding: 5px;
 }
 
+a.social {
+  white-space: nowrap;
+  img {
+    border: none;
+    height: 1.2em;
+    width: auto;
+    vertical-align: middle;
+  }
+}
+
 /* Separator after each post */
 article {
 	border-bottom: none;

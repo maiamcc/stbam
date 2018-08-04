@@ -43,9 +43,6 @@ nav.toplvl {
       float: right;
       li:last-child a { padding-right: 0; }
     }
-    ul li {
-      margin: 0;
-    }
     a {
       font-family: $heading-font-family;
       font-weight: 400;
@@ -55,10 +52,10 @@ nav.toplvl {
       padding: .25em 0;
       line-height: 1.5em;
     }
-    li + li {
-      margin-left: .8em;
+    li {
+      margin: 0 .8em;
       a {
-        padding-left: .8em;
+        padding: .25em .8em;
       }
     }
     form {

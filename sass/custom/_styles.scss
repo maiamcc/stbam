@@ -146,12 +146,19 @@ header.toplvl h2 {
 }
 
 /* Nav Bar +  Search form */
-nav.toplvl form .search {
-	line-height: 1em;
-	color: $nav-color;
-}
-nav.toplvl a {
-	color: $nav-color;
+nav.toplvl {
+  li:hover {
+    background-color: darken($nav-bg, 15);
+  }
+
+  form .search {
+	  line-height: 1em;
+	  color: $nav-color;
+  }
+  a {
+	  color: $nav-color;
+    font-weight: bold;
+  }
 }
 
 /* Set footer max width */

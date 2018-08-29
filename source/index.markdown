@@ -6,21 +6,10 @@ sharing: true
 footer: false
 sidebar: false
 ---
-Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html), and be sure to join us at our upcoming concert:
+Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html).
 
-<h3>
-  "To the Renaissance... and Beyond!"
-  <a href="https://www.facebook.com/events/944395272429883/" target="fbevent" class="social">
-    <img src="/images/fb-icon.png" alt="Find us on Facebook!">
-  </a>
-</h3>
+We just held our inagural concert, **"To the Renaissance... and Beyond!"** Stay tuned for video/photos/recordings.
 
-Our inaugural concert will be on <strong>August 26, 2018 at 4pm</strong> at <strong>The Church of St. Edward the Martyr</strong> (109th st. and 5th ave).
+Thanks to your generous donations, **we raised $240 for [Planned Parenthood](https://www.plannedparenthood.org)**, as well as covering our operational costs for the concert and giving the group a little runway for our next season.
 
-Join us for an afternoon of a cappella choral music; we'll be singing some of our favorites of the Renaissance, and a few other things     besides.
-
-And as if you needed another reason to come out: **this concert benefits [Planned Parenthood](https://www.plannedparenthood.org)** -- it's great music for a great cause!
-
-<small>(Suggested donation is $10, pay what you wish. All proceeds to Planned Parenthood after operational costs.)</small>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12081.874954560088!2d-73.9490287!3d40.7956923!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x735a4cd98cebd8ed!2sChurch+of+St+Edward+the+Martyr!5e0!3m2!1sen!2sus!4v1532579461046" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+Many many thanks to our fabulous hosts at [The Church of St. Edward the Martyr](http://saintedwardthemartyr.com/), and to everyone who came out to hear us sing, who tuned into the livestream, or otherwise supported us in our quest to make beautiful music. Until next time! 👋

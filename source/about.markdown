@@ -20,7 +20,7 @@ St. Bam was formed in June 2018 as an excuse to sing with friends while all of o
     <li>Ben Karaus</li>
     <li>Alana Murphy</li>
     <li>Alison Levosky</li>
-    <li>Betty Oof</li>
+    <li>Betty Oram</li>
     <li>Daniel Potter</li>
   </ul>
 </div>

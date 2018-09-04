@@ -7,7 +7,7 @@ sharing: false
 footer: false
 sidebar: false
 ---
-St. Bam was formed in June 2018 as an excuse to sing with friends while all of our regular choirs were off for the summer. We are an ensemble of young singers and musicians of varying degrees of (a)vocationality--with some masters students, some music teachers, some computer programmers, and some dust-gathering music degrees--united by our love of a cappella choral music. The group is named for the patron saint of sopranos, tenors, basses, altos, and mezzos (in that order).
+St. Bam was formed in June 2018 as an excuse to sing with friends while all of our regular choirs were off for the summer. We are an ensemble of young singers and musicians of varying degrees of (a)vocationality--including masters students, music teachers, computer programmers, and more--united by our love of a cappella choral music. The group is named for the patron saint of sopranos, tenors, basses, altos, and mezzos (in that order).
 
 ### St. Bam is:
 <div id ="personnel">

@@ -111,8 +111,8 @@ function renderDeliciousLinks(items) {
 
 $('document').ready(function() {
   testFeatures();
-  wrapFlashVideos();
-  flashVideoFallback();
+  // wrapFlashVideos();
+  // flashVideoFallback();
   addCodeLineNumbers();
   getNav();
   addSidebarToggler();

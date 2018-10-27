@@ -8,7 +8,11 @@ sidebar: false
 ---
 Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html).
 
-We just held our inagural concert, **"To the Renaissance... and Beyond!"** Stay tuned for video/photos/recordings.
+We just held our inagural concert, **"To the Renaissance... and Beyond!"**
+
+<div class="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuB-2gK6jggN9sGJo4ErFvBSyfWKhauA1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Thanks to your generous donations, **we raised $240 for [Planned Parenthood](https://www.plannedparenthood.org)**, as well as covering our operational costs for the concert and giving the group a little runway for our next season.
 

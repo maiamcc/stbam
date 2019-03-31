@@ -8,13 +8,13 @@ sidebar: false
 ---
 Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html).
 
-In August 2018, we held our inagural concert, **"To the Renaissance... and Beyond!"**
+Our next concert is **Wednesday, April 4th at 7PM at [The Calhoun School (433 West End Ave)](https://goo.gl/maps/gxoqz9fedgx)**; we'll be reprising some of our rep from this summer on a joint concert with Upper School Chorus from The Calhoun School. The concert will feature a wide variety of music, including everything from Billie Holiday to early Renaissance music to the Buena Vista Social Club. Donations at the door will go to charity. Hope to see you there!
 
 <div class="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuB-2gK6jggN9sGJo4ErFvBSyfWKhauA1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Thanks to your generous donations, **we raised $240 for [Planned Parenthood](https://www.plannedparenthood.org)**, as well as covering our operational costs for the concert and giving the group a little runway for our next season. Look for us again in Summer 2019! (Sign up for our mailing list below to keep in touch.)
+Stay tuned for info on our summer 2019 season. We'll be exploring the music of reknowned composer and murderer/madman Carlo Gesualdo, along with his other late Renaissance contemporaries, in a concert tentatively entitled **Where's Gesualdo? Murder, Mistresses, and Mannerists**. Sign up for our mailing list below to be the first to know more.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

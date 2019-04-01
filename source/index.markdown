@@ -8,7 +8,7 @@ sidebar: false
 ---
 Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html).
 
-Our next concert is **Wednesday, April 4th at 7PM at [The Calhoun School (433 West End Ave)](https://goo.gl/maps/gxoqz9fedgx)**; we'll be reprising some of our rep from this summer on a joint concert with Upper School Chorus from The Calhoun School. The concert will feature a wide variety of music, including everything from Billie Holiday to early Renaissance music to the Buena Vista Social Club. Donations at the door will go to the [Council on American-Islamic Relations (CAIR)](https://www.cair.com/), an organization working to fight Islamophobia, empower American Muslims, and promote justice and understanding. We hope you'll come out to hear some great music for a great cause!
+Our next concert is **Wednesday, April 3rd at 7PM at [The Calhoun School (433 West End Ave)](https://goo.gl/maps/gxoqz9fedgx)**; we'll be reprising some of our rep from this summer on a joint concert with Upper School Chorus from The Calhoun School. The concert will feature a wide variety of music, including everything from Billie Holiday to early Renaissance music to the Buena Vista Social Club. Donations at the door will go to the [Council on American-Islamic Relations (CAIR)](https://www.cair.com/), an organization working to fight Islamophobia, empower American Muslims, and promote justice and understanding. We hope you'll come out to hear some great music for a great cause!
 
 <div class="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuB-2gK6jggN9sGJo4ErFvBSyfWKhauA1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

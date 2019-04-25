@@ -1,0 +1,15 @@
+steps:
+  - id: build-image
+    name: 'gcr.io/cloud-builders/docker'
+    args: [ 'build', '-t', 'gcr.io/master-195422/maiamcc-stbamus:$COMMIT_SHA', '-f', 'cloudbuild/Dockerfile', '.']
+
+  - id: push-image
+    name: 'gcr.io/cloud-builders/docker'
+    args: [ 'push', 'gcr.io/master-195422/maiamcc-stbamus:$COMMIT_SHA' ]
+
+  - id: deploy-image
+    name: 'gcr.io/cloud-builders/kubectl'
+    args: [ 'set', 'image', 'deployment/maiamcc-stbamus', 'maiamcc-stbamus=gcr.io/master-195422/maiamcc-stbamus:$COMMIT_SHA' ]
+    env:
+      - 'CLOUDSDK_COMPUTE_ZONE=us-east4'
+      - 'CLOUDSDK_CONTAINER_CLUSTER=production'

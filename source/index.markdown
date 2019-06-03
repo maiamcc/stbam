@@ -8,26 +8,22 @@ sidebar: false
 ---
 Hi, we're St. Bam, a nine-voice chamber choir based in New York City. [Learn more about us](/about.html).
 
-Our next concert is **Wednesday, April 3rd at 7PM at [The Calhoun School (433 West End Ave)](https://goo.gl/maps/gxoqz9fedgx)**; we'll be reprising some of our rep from this summer on a joint concert with Upper School Chorus from The Calhoun School. The concert will feature a wide variety of music, including everything from Billie Holiday to early Renaissance music to the Buena Vista Social Club. Donations at the door will go to the [Council on American-Islamic Relations (CAIR)](https://www.cair.com/), an organization working to fight Islamophobia, empower American Muslims, and promote justice and understanding. We hope you'll come out to hear some great music for a great cause!
+This group is on hiatus until further notice, but you can catch most of our members in the [New York Chamber Choirs](https://www.chamberchoirs.nyc/)!
+
+You can still sign up for our mailing list below--if St. Bam re-appears, you'll be the first to know!
 
 <div class="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuB-2gK6jggN9sGJo4ErFvBSyfWKhauA1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Stay tuned for info on our summer 2019 season. We'll be exploring the music of reknowned composer and murderer/madman Carlo Gesualdo, along with his other late Renaissance contemporaries, in a concert tentatively entitled **Where's Gesualdo? Murder, Mistresses, and Mannerists**. Sign up for our mailing list below to be the first to know more.
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
 <div id="mc_embed_signup">
 <form action="https://stbam.us7.list-manage.com/subscribe/post?u=79bcadea0557635b092b93c82&amp;id=4d05d5df7c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
-        <h4>We'll keep you posted about concerts and events<h4>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

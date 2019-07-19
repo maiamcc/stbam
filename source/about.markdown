@@ -15,7 +15,7 @@ St. Bam was formed in June 2018 as an excuse to sing with friends while all of o
     <li>Maia McCormick, director</li>
     <li>Sarah Bonamino</li>
     <li>Caitlin Caruso-Dobbs</li>
-    <li>Evan Crawford</li>
+    <li>Noel Crawford</li>
     <li>David Eisenstat</li>
     <li>Ben Karaus</li>
     <li>Alana Murphy</li>
